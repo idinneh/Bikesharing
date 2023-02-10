@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this analysis was to analyze the bikesharing data from CitiBike in New York City for presenation to investors who are looking to start the same business in Des Moines, Iowa.
+The purpose of this analysis was to analyze the bikesharing data from CitiBike in New York City for presentation to investors who are looking to start the same business in Des Moines, Iowa.
 
 
 ## Results
