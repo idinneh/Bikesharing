@@ -54,3 +54,6 @@ This bar chart displays the number of bike rides initiated during each hour of t
  In conclusion, bikeshare services are remarkably popular in busy metropolitan areas due to work and business areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers. More outreach should be done to attract female riders a good way is start a fitness program where they are encouraged to exercise and earn money for how long they bike.The main usage seems focused around morning and evening commute times.
  
  Additional visualizations to perform is to discover the age groups amongst genders which utilise the bike program the most and also looking at potential factors which can affect trip durations through day e.g traffic.
+ 
+ ## Resources
+ Tablueau public
