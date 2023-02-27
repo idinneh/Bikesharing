@@ -56,4 +56,4 @@ This bar chart displays the number of bike rides initiated during each hour of t
  Additional visualizations to perform is to discover the age groups amongst genders which utilise the bike program the most and also looking at potential factors which can affect trip durations through day e.g traffic.
  
  ## Resources
- Tablueau public
+ Tableau public
